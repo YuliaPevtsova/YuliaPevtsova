@@ -1,6 +1,5 @@
 ![Header](https://github.com/YuliaPevtsova/YuliaPevtsova/blob/main/assets/img_name.png)
-### 👋 
-### Я начинающий тестировщик 
+### 👋 Я начинающий тестировщик 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
@@ -12,7 +11,11 @@
 ![Git](https://img.shields.io/badge/-Git-2a456e?style=plastic&logo=git&logoColor=ffec66)
 ![Charles](https://img.shields.io/badge/-Charles-2a456e?style=plastic&logo=charles&logoColor=00c466)
 ![SQL](https://img.shields.io/badge/-SQL-2a456e?style=plastic&logo=postgresql&logoColor=161117)
-#### Follow me
+
+#### Contact me
+[![email](https://img.shields.io/badge/-email-2a456e?style=plastic&logo=gmail&logoColor=58edb7)](https://mail.google.com/) julipevtsova@gmail.com
+
+[![telegram](https://img.shields.io/badge/-telegram-2a456e?style=plastic&logo=telegram&logoColor=698cc8)](https://t.me/t.me/JuliaPevtsova) JuliaPevtsova
 <!--
 **YuliaPevtsova/YuliaPevtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
