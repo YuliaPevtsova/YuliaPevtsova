@@ -1,13 +1,18 @@
-### Hi there 👋
-[![Header](https://github.com/YuliaPevtsova/YuliaPevtsova/blob/main/assets/img_name.png)]
-
-About me
+![Header](https://github.com/YuliaPevtsova/YuliaPevtsova/blob/main/assets/img_name.png)
+### 👋 
+### Я начинающий тестировщик 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
- Languages and Tools
-
- Follow me
+### Languages and Tools
+![Android Studio](https://img.shields.io/badge/-Android_Studio-2a456e?style=plastic&logo=AndroidStudio&logoColor=58edb7)
+![Postman](https://img.shields.io/badge/-Postman-2a456e?style=plastic&logo=Postman&logoColor=698cc8)
+![ChromeDevTools](https://img.shields.io/badge/-ChromeDevTools-2a456e?style=plastic&logo=googlechrome&logoColor=ae6276)
+![Python](https://img.shields.io/badge/-Python-2a456e?style=plastic&logo=python&logoColor=161117)
+![Git](https://img.shields.io/badge/-Git-2a456e?style=plastic&logo=git&logoColor=ffec66)
+![Charles](https://img.shields.io/badge/-Charles-2a456e?style=plastic&logo=charles&logoColor=00c466)
+![SQL](https://img.shields.io/badge/-SQL-2a456e?style=plastic&logo=postgresql&logoColor=161117)
+#### Follow me
 <!--
 **YuliaPevtsova/YuliaPevtsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
