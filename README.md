@@ -1,5 +1,5 @@
 ### Hi there 👋
-Header
+[![Header](https://github.com/YuliaPevtsova/YuliaPevtsova/blob/main/assets/img_name.png)]
 
 About me
 - 🔭 I’m currently working on ...
