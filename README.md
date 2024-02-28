@@ -1,7 +1,7 @@
 ![Header](https://github.com/YuliaPevtsova/YuliaPevtsova/blob/main/assets/img_name.png)
 ### 👋 Я начинающий тестировщик 
 - 🔭 Сейчас я практикуюсь на проекте "Точка интререса" KRABS APPS DEV https://vk.com/tochka_interesa и в группе beta-тестирования VK-приложений https://vk.com/testers
-- 🌱 Обучаюсь мобильному тестированию
+- 🌱 Обучаюсь мобильному и web тестированию
 
 ### Languages and Tools
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-2a456e?style=plastic&logo=AndroidStudio&logoColor=58edb7)
